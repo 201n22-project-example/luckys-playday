@@ -1,1 +1,3 @@
 # luckys-playday
+
+getting started
